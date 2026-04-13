@@ -1,13 +1,12 @@
 # Project-Management-Analytics-Dashboard
 Project Management Analytics Dashboard. Built using Microsoft Excel analysing 4,000 projects worth $4.57 Billion.
-# 📊 Project Management Analytics Dashboard
 
 > Transforming raw project data into clear, 
 > actionable insights using Microsoft Excel.
 
 ---
 
-## 👩 About Me
+##  About Me
 
 **Shivani Siddula**  
 Aspiring Data Analyst
@@ -23,7 +22,7 @@ with a strong interest in data analytics.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This **Project Management Analytics Dashboard** 
 was built using **Microsoft Excel** to analyse 
@@ -37,7 +36,7 @@ progress — all in one interactive view.
 
 ---
 
-## 📁 Dataset Details
+##  Dataset Details
 
 | Metric | Value |
 |--------|-------|
@@ -50,7 +49,7 @@ progress — all in one interactive view.
 | Total Fields | 50+ Columns |
 | Project Types | 6 Categories |
 
-### 🏗️ Project Types Analysed
+###  Project Types Analysed
 
 | Project Type | Projects | Budget | Key Characteristic |
 |--------------|----------|--------|--------------------|
@@ -63,7 +62,7 @@ progress — all in one interactive view.
 
 ---
 
-## 📊 Dashboard Structure
+##  Dashboard Structure
 
 The dashboard is organised into
 6 professional sheets:
@@ -146,7 +145,7 @@ summary section.
 
 ---
 
-## 🔍 Problems Identified
+##  Problems Identified
 
 | # | Problem | Impact |
 |---|---------|--------|
@@ -161,7 +160,7 @@ summary section.
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 ✅ Microsoft Excel
 ✅ Pivot Tables & Charts
 ✅ Slicers & Interactive Filters

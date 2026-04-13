@@ -17,7 +17,7 @@ Skilled in transforming complex datasets into
 clear, actionable dashboards. Detail-oriented 
 with a strong interest in data analytics.
 
-📧 Email: yourmail@email.com  
+📧 Email: shivanisiddula01@gmail.com  
 🔗 LinkedIn: linkedin.com/in/shivanisiddula
 
 ---
@@ -133,7 +133,7 @@ summary section.
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 | # | Severity | Insight |
 |---|----------|---------|

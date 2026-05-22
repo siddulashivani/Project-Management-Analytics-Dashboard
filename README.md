@@ -36,6 +36,12 @@ progress — all in one interactive view.
 
 ---
 
+## Dashboard Preview
+
+<img width="1123" height="827" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/f30a77ff-3b1c-4190-85ba-12c84f5544f4" />
+
+---
+
 ##  Dataset Details
 
 | Metric | Value |
